@@ -44,7 +44,7 @@ python --version
 Install Flask and dependencies using pipenv:
 
 ```bash
-pipenv install
+pip install flask
 pipenv shell
 ```
 
